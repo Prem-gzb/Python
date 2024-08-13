@@ -1,5 +1,6 @@
 # Difference between sort and sorted
-# YouTube video link: https://youtu.be/PP-O8A4iL8Y
+# YouTube video link: https://youtu.be/dSqLLYZdMXc
+
 s = "SimpleEasyPython"
 l = [10,2,22,3,0,-7,15,8]
 t = (10,2,22,3,0,-7,15,8)
