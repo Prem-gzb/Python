@@ -3,7 +3,7 @@
 user_name = input("Enter user name: ")
 password = input("Enter password: ")
 
-# First example to check whether the user name is root and password is 1234
+# First example of one level of nesting if under first if condition
 
 if user_name == "root":
     if password == "1234":
