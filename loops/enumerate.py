@@ -1,3 +1,5 @@
+# YouTube Video Link: https://youtu.be/6E3YxQMVG7M
+
 # Looping through indices and values of a list
 my_list = ["Simple","Easy","Python","Hello","World"]
 
