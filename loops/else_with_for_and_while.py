@@ -55,13 +55,3 @@ while attempts < max_attempts:
     attempts += 1
 else:
     print("You have exceeded maximum number of attempts, Account Locked")
-
-for i in range(3):
-    ...
-else:
-    ...
-
-while i < 3:
-    ...
-else:
-    ...
