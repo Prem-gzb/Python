@@ -49,4 +49,4 @@ print(check_grade(marks))
 # return cannot be used outside function. Below code produces error.
 a = 10
 b = 20
-return (a + b)
+# return (a + b)
