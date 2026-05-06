@@ -97,7 +97,7 @@ def add(*nums):
 print(add(1,2))
 print(add(1,2, 3))
 
-# Using double asterisks or *kwargs to unpack function variable length keyword paramert
+# Using double asterisks or **kwargs to unpack function variable length keyword paramert
 def item_details(**kwargs):
     print(type(kwargs))
     print(kwargs)
