@@ -69,6 +69,20 @@ Methods_Vs_Functions
 <summary>
 Operators
 
+This playlist is all about different types of Python operators and their usage.
+
+- Assignment Operators
+- Conditional or Relational Operators
+- Logical/Boolean Operators
+- Membership Operators
+- Identity Operators
+- Bitwise Operators - Part 1
+- Bitwise Operators - Part 2
+- Walrus Operators 
+- Unary Operators
+- Floating point calculations
+- Ternary Operators
+
 <details>
 <summary>
 Set
