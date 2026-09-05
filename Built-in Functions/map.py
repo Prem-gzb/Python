@@ -41,10 +41,3 @@ def add(x,y):
 lst_1 = [10,20,30]
 lst_2 = [1,2,3]
 print(list(map(add, lst_1, lst_2)))
-
-def calculate_bill(customer_name, 
-order_id,
-membership="Regular"):
-    total = 1000
-    tax = total * 0.05
-    return total + tax
